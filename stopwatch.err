@@ -1,0 +1,4 @@
+Warning[215] H:\EMBEDDED SYSTEMS\ASSIGNMENT3\STOPWATCH.ASM 2 : Processor superseded by command line.  Verify processor symbol.
+Message[301] Q:\MPLAB856.EPS\MPASM SUITE\P16F84.INC 37 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] H:\EMBEDDED SYSTEMS\ASSIGNMENT3\STOPWATCH.ASM 67 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] H:\EMBEDDED SYSTEMS\ASSIGNMENT3\STOPWATCH.ASM 69 : Register in operand not in bank 0.  Ensure that bank bits are correct.

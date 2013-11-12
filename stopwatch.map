@@ -1,0 +1,51 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Tue Nov 12 17:17:15 2013
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .org_1       code   0x000005    program   0x000052
+                   .cinit    romdata   0x001800    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x00002d      
+                            0x001800    0x001801      
+            44 out of 8453 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     del1   0x000011    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                   del1ms   0x00000f    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    else1   0x000026    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    exit1   0x00002d    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    exit2   0x00002d    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                 gameloop   0x000017    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                     init   0x000005    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    loop1   0x00001c    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    start   0x000016    program     static H:\embedded systems\Assignment3\stopwatch.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     init   0x000005    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                   del1ms   0x00000f    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                     del1   0x000011    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    start   0x000016    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                 gameloop   0x000017    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    loop1   0x00001c    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    else1   0x000026    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    exit1   0x00002d    program     static H:\embedded systems\Assignment3\stopwatch.asm
+                    exit2   0x00002d    program     static H:\embedded systems\Assignment3\stopwatch.asm
+
+
